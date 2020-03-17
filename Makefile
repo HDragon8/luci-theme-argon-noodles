@@ -6,10 +6,10 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=Argon Magic Change Theme
+LUCI_TITLE:=Argon noodles Theme
 LUCI_DEPENDS:=
-PKG_VERSION:=1.0
-PKG_RELEASE:=01-20200316
+PKG_VERSION:=1.1
+PKG_RELEASE:=01-20200317
 
 include $(TOPDIR)/feeds/luci/luci.mk
 
