@@ -4,6 +4,7 @@ uci batch <<-EOF
 	set luci.themes.Argon_Darkcolorful=/luci-static/argon_noodles2
 	set luci.themes.Argon_noodlesViolet=/luci-static/argon_noodles_violet
 	set luci.themes.Argon_Light_Green=/luci-static/argon_light_green
+	set luci.themes.Argon_violet=/luci-static/argon_violet
 	commit luci
 EOF
 exit 0
