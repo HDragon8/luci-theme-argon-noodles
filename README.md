@@ -1,5 +1,5 @@
 # luci-theme-argon-noodles
-#改个名字而已
+# 改个名字而已
 A new Luci theme for LEDE/OpenWRT  
 Thanks https://github.com/sypopo/luci-theme-argon-mc
 Thanks https://github.com/jerrykuku/luci-theme-argon
