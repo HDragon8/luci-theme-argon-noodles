@@ -31,7 +31,6 @@
  *  Font generate by Icomoon<icomoon.io>
  */
 (function ($) {
-	$(".main > .loading").hide();
     $(".main > .loading").fadeOut();
 
     /**
