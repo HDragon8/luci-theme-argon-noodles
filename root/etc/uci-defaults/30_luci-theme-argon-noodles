@@ -1,6 +1,7 @@
 #!/bin/sh
 uci batch <<-EOF
-	set luci.themes.Argon_noodles=/luci-static/argon_noodles
+	set luci.themes.noodlesLight_Purple=/luci-static/argon_noodles
+	set luci.themes.noodlesLight=/luci-static/argon_noodles1
 	commit luci
 EOF
 exit 0
