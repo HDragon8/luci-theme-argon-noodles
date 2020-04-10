@@ -8,8 +8,8 @@ include $(TOPDIR)/rules.mk
 
 LUCI_TITLE:=Argon noodles Theme
 LUCI_DEPENDS:=
-PKG_VERSION:=1.2
-PKG_RELEASE:=01-20200330
+PKG_VERSION:=1.3
+PKG_RELEASE:=01-20200410
 
 include $(TOPDIR)/feeds/luci/luci.mk
 
